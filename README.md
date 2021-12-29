@@ -1,6 +1,6 @@
 # swiss-stationboard-arduino
 
-Display the stationboard of any swiss public transport ststion on your TTGO Display ESP32 board.
+Display the stationboard of any swiss public transport station on your TTGO Display ESP32 board.
 
 ![Photo of Board with code running](media/in-action.jpg)
 
